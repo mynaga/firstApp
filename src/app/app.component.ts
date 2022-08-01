@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'firstApp-welcome to angular from Naga';
+  title = 'firstApp-welcome to angular from Naga -change2';
 }
